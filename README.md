@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **buhuiming/buhuiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=buhuiming&show_icons=true&theme=tokyonight&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buhuiming&layout=compact&hide_title=true&theme=tokyonight" />
